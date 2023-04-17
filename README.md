@@ -4,7 +4,7 @@
 QuizGUI é um programa Java que fornece um jogo de perguntas e respostas em que o usuário pode responder perguntas sobre vários tópicos. O usuário pode escolher a categoria desejada e responder as perguntas. O programa é construído com Java e Swing (parte de interação gráfica).
 
 ## Como jogar
-1. Clone este repositório: git clone https://github.com/dfrogel/QuizGUI.git
+1. Clone este repositório: git clone https://github.com/dfrogel/Java.git
 2. Compile o programa: javac QuizGUI.java
 3. Execute o programa (run)
 4. Escolha uma das categorias, sendo elas:
