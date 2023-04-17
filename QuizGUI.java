@@ -1,11 +1,8 @@
 import javax.swing.*;
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class QuizGUI {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        boolean jogarNovamente = true;
         int escolha = JOptionPane.YES_OPTION;
         do {
              // Definir as categorias
